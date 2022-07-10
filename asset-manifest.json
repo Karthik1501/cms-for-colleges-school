@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cms-for-colleges-school/static/css/main.b5197404.css",
-    "main.js": "/cms-for-colleges-school/static/js/main.6b1d85d3.js",
+    "main.js": "/cms-for-colleges-school/static/js/main.aa85b5d6.js",
     "static/js/787.0e31295a.chunk.js": "/cms-for-colleges-school/static/js/787.0e31295a.chunk.js",
     "index.html": "/cms-for-colleges-school/index.html",
     "main.b5197404.css.map": "/cms-for-colleges-school/static/css/main.b5197404.css.map",
-    "main.6b1d85d3.js.map": "/cms-for-colleges-school/static/js/main.6b1d85d3.js.map",
+    "main.aa85b5d6.js.map": "/cms-for-colleges-school/static/js/main.aa85b5d6.js.map",
     "787.0e31295a.chunk.js.map": "/cms-for-colleges-school/static/js/787.0e31295a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5197404.css",
-    "static/js/main.6b1d85d3.js"
+    "static/js/main.aa85b5d6.js"
   ]
 }
